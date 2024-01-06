@@ -1,4 +1,4 @@
-Bundle - React Native Firebase Social App
+Bundle - Social App (React Native + Firebase)
 
 ## Packages Used
 - [React Native Onboarding Swiper](https://github.com/jfilter/react-native-onboarding-swiper)
